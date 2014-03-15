@@ -6,9 +6,9 @@
 </head>
 <body>
 <h1>
-	Hello world!  
+	Hola mundillo
 </h1>
 
-<P>  The time on the server is cambiamos ${serverTime}. </P>
+<P>  The time on the server is otro cambio ${serverTime}. </P>
 </body>
 </html>
